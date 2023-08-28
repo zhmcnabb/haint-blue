@@ -1,0 +1,1 @@
+This is a learning repository where I can explore the basics of GitHub, Linux, and general technical skills.
